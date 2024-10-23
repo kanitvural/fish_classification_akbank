@@ -29,10 +29,18 @@ model = load_model("/kaggle/working/models/best_model.keras")
   - **Pillow & OpenCV:** Utilized for image processing tasks.
   - **Other Helper Libraries:** Various additional Python libraries to support auxiliary tasks.
 
-**Project Github Repo**
+**Project Kaggle Notebook**
 
-https://github.com/kanitvural/fish_classification_akbank
+[fish_classification_akbank](https://www.kaggle.com/code/iskorpittt/fish-classification-akbank)
 
+### Installation:
+```
+git clone https://github.com/kanitvural/fish_classification_akbank.git
+cd fish_classification_akbank
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+```
 
 ### Steps:
 
